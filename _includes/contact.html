@@ -97,5 +97,11 @@
     </li>
     {% endif %}
 
+    {% if sidebar.googlescholar %}
+    <li class="googlescholar"><i class="fab fa-googlescholar"></i>
+      <a href="https://scholar.google.com/citations?user={{ sidebar.googlescholar }}" target="_blank">{{ sidebar.googlescholar }}</a>
+    </li>
+    {% endif %}
+
   </ul>
 </div><!--//contact-container-->
