@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Mengshi Ge
     tagline: Natural language processing, Data analysis, Statistics
-    avatar: _MG_8832-280.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 20231018.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mengshi001@e.ntu.edu.sg
@@ -19,6 +19,7 @@ sidebar:
     citizenship:
     website:  #do not add http://
     linkedin: mengshi-ge-113043a2
+    googlescholar: Kkmo_fEAAAAJ&hl=en
     xing: 
     github: 
     telegram: moncygg # add your nickname without '@' sign
@@ -63,25 +64,22 @@ education:
         time: 2020 - present
         details: |
           Courses: Deep learning, NLP, Genetic algorithm and machine learning.
-            - Bullet point
-            - Bullet point
+          
       - degree: MSc in Statistics
         university: George Washington University
         time: 2017 - 2019
         details: |
           Courses: Advanced Time Series, Data Mining, Applied Linear Regression, SAS Programming, Elementary Sampling, Survival analysis, Contingency table analysis.
-            - Bullet point
-            - Bullet point
+
       - degree: BSc in Mathematics and Applied Mathematics
         university: Dalian University of Technology
         time: 2013 - 2017
         details: |
           Courses: Mathematical Analysis, Advanced Algebra, Functional Analysis, Measure Theory, Topology, Measure Theory, Number theory, Optimization method.
-            - Bullet point
-            - Bullet point
+
 
 experiences:
-    title: Experiences
+    title: Working Experiences
     info:
       - role: Research Associate
         time: 2020 - Present
@@ -152,6 +150,25 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
+publications:
+    title: Publications
+    intro: |
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+        
 projects:
     title: Projects
     intro: >
@@ -179,68 +196,83 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+experiences:
+    title: Teaching Experiences
+    info:
+      - role: CZ3005 Artificial intelligence
+        time: Aug. - Dec. 2020
+        details: |
+            Teaching assistant for NTU undergraduate course
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - role: CZ4034 Information retrieval
+        time: Jan. - Jun. 2020 & 2021
+        details: |
+            Teaching assistant for NTU undergraduate course
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+experiences:
+    title: Activities
+    info:
+      - role: Conference Reviewer
+        details: |
+            COLING 2022, ACL 2023, EMNLP 2023, LREC-COLING 2024
 
+      - role: Journal Reviewer
+        details: |
+            Knowledge-based system, Information fusion, Cognitive Computation
+
+      - role: TEDx DUT organizer
+        time: Jun. - Dec. 2014
+        Company: Dalian, China
+        details: |
+            - Hold a forum activity for 500+ audience with 10 speakers
+            - Codify and post blogs for social media of the organization
+            - Write copywriting for TED activities
+
+      - role: Sunny Love Caring Autism Organization volunteer
+        time: Oct 2013 - Dec 2014
+        Company: Dalian, China
+        details: |
+            - Take care of and play with children diagnosed with autism weekly
+            - Hold 5+ lectures about autism with the total 3000+ audience
+            - Conduct a display sale of painting drawn by autism children for charity
+
+
+            
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SAS
+        level: 90%
+
+      - name: SQL
+        level: 80%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
