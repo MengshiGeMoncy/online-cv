@@ -18,8 +18,8 @@ sidebar:
     timezone: Singapore Standard Time (GMT+8)
     citizenship:
     website:  #do not add http://
-    linkedin: mengshi-ge-113043a2
-    googlescholar: Kkmo_fEAAAAJ&hl=en
+    linkedin: Ge Mengshi
+    googlescholar: Ge Mengshi
     xing: 
     github: 
     telegram: moncygg # add your nickname without '@' sign
@@ -268,10 +268,10 @@ skills:
         level: 95%
 
       - name: SAS
-        level: 90%
-
-      - name: SQL
         level: 80%
+
+      # - name: SQL
+      #   level: 80%
 
 
 footer: >
