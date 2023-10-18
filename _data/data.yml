@@ -8,50 +8,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mengshi Ge
+    tagline: PhD student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mengshi001@e.ntu.edu.sg
+    phone: +65 82621723
+    timezone: Singapore Standard Time(GMT+8)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:  #do not add http://
+    linkedin: mengshi-ge-113043a2
+    xing: 
+    github: 
+    telegram: @moncygg # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Theater
           link:
 
-        - item: Cooking
+        - item: Gardening
           link:
 
 career-profile:
@@ -66,26 +63,25 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph.D. in Computer Science
+        university: Nanyang Technological University
+        time: 2020 - present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Courses: Deep learning, NLP, Genetic algorithm and machine learning.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MSc in Statistics
+        university: George Washington University
+        time: 2017 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Courses: Advanced Time Series, Data Mining, Applied Linear Regression, SAS Programming, Elementary Sampling, Survival analysis, Contingency table analysis.
+            - Bullet point
+            - Bullet point
+      - degree: BSc in Mathematics and Applied Mathematics
+        university: Dalian University of Technology
+        time: 2013 - 2017
+        details: |
+          Courses: Mathematical Analysis, Advanced Algebra, Functional Analysis, Measure Theory, Topology, Measure Theory, Number theory, Optimization method.
             - Bullet point
             - Bullet point
 
