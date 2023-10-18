@@ -215,7 +215,7 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-experiences:
+teachings:
     title: Teaching Experiences
     info:
       - role: CZ3005 Artificial intelligence
@@ -228,7 +228,7 @@ experiences:
         details: |
             Teaching assistant for NTU undergraduate course
 
-experiences:
+activities:
     title: Activities
     info:
       - role: Conference Reviewer
@@ -243,8 +243,8 @@ experiences:
         time: Jun. - Dec. 2014
         Company: Dalian, China
         details: |
-            - Hold a forum activity for 500+ audience with 10 speakers
-            - Codify and post blogs for social media of the organization
+            - Hold a forum activity for a 500+ audience with 10 speakers
+            - Codify and post blogs for the social media of the organization
             - Write copywriting for TED activities
 
       - role: Sunny Love Caring Autism Organization volunteer
@@ -252,8 +252,8 @@ experiences:
         Company: Dalian, China
         details: |
             - Take care of and play with children diagnosed with autism weekly
-            - Hold 5+ lectures about autism with the total 3000+ audience
-            - Conduct a display sale of painting drawn by autism children for charity
+            - Hold 5+ lectures about autism with a total 3000+ audience
+            - Conduct a display sale of paintings drawn by autistic children for charity
 
 
             
