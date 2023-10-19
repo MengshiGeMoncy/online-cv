@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Mengshi Ge
     tagline: Natural language processing, Data analysis, Statistics
-    avatar: 20231018.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: # 20231018.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mengshi001@e.ntu.edu.sg
@@ -22,7 +22,7 @@ sidebar:
     googlescholar: Ge Mengshi
     xing: 
     github: 
-    telegram: moncygg # add your nickname without '@' sign
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: # '@webjeda'
@@ -154,10 +154,10 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: The Art of Computer Programming
+      - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Mengshi Ge, Rui Mao, Erik Cambria
+        conference: Proceedings of the AAAI Conference on Artificial Intelligence, 10681-10689
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
