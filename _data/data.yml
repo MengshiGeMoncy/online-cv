@@ -154,20 +154,19 @@ publications:
     title: Publications
     intro: |
     papers:
+
+
+      - title: MetaPro: A computational metaphor processing model for text pre-processing
+        link: 
+        authors: Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria
+        conference: Information Fusion, 30-43
+        
       - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
         authors: Mengshi Ge, Rui Mao, Erik Cambria
         conference: Proceedings of the AAAI Conference on Artificial Intelligence, 10681-10689
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
         
 projects:
     title: Projects
