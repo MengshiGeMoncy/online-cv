@@ -154,8 +154,6 @@ publications:
     title: Publications
     intro: |
     papers:
-
-
       - title: MetaPro: A computational metaphor processing model for text pre-processing
         link: "#"
         authors: Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria
