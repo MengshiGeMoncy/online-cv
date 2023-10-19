@@ -18,8 +18,8 @@ sidebar:
     timezone: Singapore Standard Time (GMT+8)
     citizenship:
     website:  #do not add http://
-    linkedin: Ge Mengshi
-    googlescholar: Ge Mengshi
+    linkedin: Linkedin
+    googlescholar: GScholar
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
@@ -154,11 +154,6 @@ publications:
     title: Publications
     intro: |
     papers:
-
-      - title: MetaPro Online: A computational metaphor processing online system
-        link: "#"
-        authors: Rui Mao, Xiao Li, Kai He, Mengshi Ge, Erik Cambria
-        conference: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations), 127-135
        
       - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
