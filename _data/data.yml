@@ -154,7 +154,12 @@ publications:
     title: Publications
     intro: |
     papers:
-       
+    
+      - title: ECPEC: Emotion-Cause Pair Extraction in Conversations
+        link: "#"
+        authors: Wei Li, Yang Li, Vlad Pandelea, Mengshi Ge, Luyao Zhu, Erik Cambria
+        conference: IEEE Transactions on Affective Computing
+        
       - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
         authors: Mengshi Ge, Rui Mao, Erik Cambria
