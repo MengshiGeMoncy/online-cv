@@ -154,10 +154,6 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: A survey on computational metaphor processing techniques: from identification, interpretation, generation to application
-        link: "#"
-        authors: Mengshi Ge, Rui Mao, Erik Cambria
-        conference: Artificial Intelligence Review, 1-67
        
       - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
