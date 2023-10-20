@@ -155,15 +155,15 @@ publications:
     intro: |
     papers:
     
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        # link: "#"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      # - title: A syntax directed compiler for Algol 60
+        # link: "#"
+        # authors: Edgar T. Irons
+        # conference: "Comm. ACM 4 (1961), 51–55"
     
        # - title: "A survey on computational metaphor processing techniques: from identification, interpretation, generation to application"
         # link: "#"
@@ -180,10 +180,10 @@ publications:
         authors: Wei Li, Yang Li, Vlad Pandelea, Mengshi Ge, Luyao Zhu, Erik Cambria
         conference: IEEE Transactions on Affective Computing
 
-      # - title: MetaPro: A computational metaphor processing model for text pre-processing
-        # link: "#"
-        # authors: Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria
-        # conference: Information Fusion, 30-43   
+      - title: "MetaPro: A computational metaphor processing model for text pre-processing"
+        link: "#"
+        authors: Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria
+        conference: Information Fusion, 30-43   
 
       - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
