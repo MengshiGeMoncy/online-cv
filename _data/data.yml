@@ -190,6 +190,21 @@ publications:
         authors: Mengshi Ge, Rui Mao, Erik Cambria
         conference: Proceedings of the AAAI Conference on Artificial Intelligence, 10681-10689
         
+        
+teachings:
+    title: Teaching Experiences
+    info:
+      - role: CZ3005 Artificial intelligence
+        time: Aug. - Dec. 2020
+        details: |
+            Teaching assistant for NTU undergraduate course
+
+      - role: CZ4034 Information retrieval
+        time: Jan. - Jun. 2020 & 2021
+        details: |
+            Teaching assistant for NTU undergraduate course
+            
+            
 projects:
     title: Projects
     info:
@@ -271,18 +286,7 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-teachings:
-    title: Teaching Experiences
-    info:
-      - role: CZ3005 Artificial intelligence
-        time: Aug. - Dec. 2020
-        details: |
-            Teaching assistant for NTU undergraduate course
 
-      - role: CZ4034 Information retrieval
-        time: Jan. - Jun. 2020 & 2021
-        details: |
-            Teaching assistant for NTU undergraduate course
 
 activities:
     title: Activities
