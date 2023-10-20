@@ -203,7 +203,7 @@ projects:
             - Cross-validation is used to winnow a best outcome
 
       - role: Change Point Detection on Shanghai Stock Exchange
-        time: Nov. 2018 - Dec. 2018
+        time: Nov. - Dec. 2018
         company: 
         details: |
             - Apply direct computation, Univariate Bayesian Method, and Nonparametric Multiple Detection Method to detect change points
@@ -211,7 +211,7 @@ projects:
             - Data is from Shanghai stock 14.1-17.4 Monthly Closing Price
           
       - role: House Price Prediction
-        time: Nov. 2018 - Dec. 2018
+        time: Nov. - Dec. 2018
         company: 
         details: |
             - Elastic net is applied to penalized parameters for multiple variables
@@ -219,21 +219,21 @@ projects:
             - Use the neural network to get a better RMSE
 
       - role: ERP(event-related potential) data analysis
-        time: Oct. 2018 - Nov. 2018
+        time: Oct. - Nov. 2018
         company: 
         details: |
             - Data visualization, Variable analysis, correlation plot
             - Set an ARIMA model and do the residual diagnosis for single electrode time series data
 
       - role: Wrongful Convictions Analysis
-        time: Apr. 2018 - May. 2018
+        time: Apr. - May. 2018
         company: 
         details: |
             - Use Logistic regression, Chi-square test, Contingency table analysis in R to measure the influence of factors on the wrongful conviction 
             - Set a generalized linear model to agglomerate effects from factors
 
       - role: Air Pollution and Mortality
-        time: Mar. 2018 - Apr. 2018
+        time: Mar. - Apr. 2018
         company: 
         details: |
             - Use Mallow's Cp and backwards selection to select variables in SAS
@@ -241,7 +241,7 @@ projects:
             - Set a multivariable regression model to interpret the outcome
 
       - role: New York City flights analysis
-        time: Mar. 2018 - Apr. 2018
+        time: Mar. - Apr. 2018
         company: 
         details: |
             - find the satisfied observations by PROC SQL in SAS
