@@ -63,19 +63,19 @@ education:
         university: Nanyang Technological University
         time: 2020 - present
         details: |
-          Courses: Deep learning for NLP: from theory to practice, Genetic algorithm and machine learning, Deep learning for data science, Artificial intelligence for game design.
+          Courses: Deep Learning for NLP: from Theory to Practice, Genetic Algorithm and Machine Learning, Deep Learning for Data Science, Artificial Intelligence for Game Design.
           
       - degree: MSc in Statistics
         university: George Washington University
         time: 2017 - 2019
         details: |
-          Courses: Advanced Time Series, Data Mining, Applied Linear Regression, SAS Programming, Elementary Sampling, Survival analysis, Contingency table analysis.
+          Courses: Advanced Time Series, Data Mining, Applied Linear Regression, SAS Programming, Elementary Sampling, Survival Analysis, Contingency Table Analysis.
 
       - degree: BSc in Mathematics and Applied Mathematics
         university: Dalian University of Technology
         time: 2013 - 2017
         details: |
-          Courses: Mathematical Analysis, Advanced Algebra, Functional Analysis, Measure Theory, Topology, Measure Theory, Number theory, Optimization method.
+          Courses: Mathematical Analysis, Advanced Algebra, Functional Analysis, Measure Theory, Topology, Measure Theory, Number Theory, Optimization Method.
 
 
 experiences:
