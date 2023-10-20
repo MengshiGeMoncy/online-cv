@@ -193,13 +193,15 @@ publications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
     assignments:
-      - title: Velocity
+      - title: Data Analysis to Click-through Rate Prediciton
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        time: Dec. 2018 - Jan. 2019
+        tagline: 
+            - Use Google Cloud and Spark to play >10MB dataset
+            - Apply Multilayer Perceptron, Random forests, Gradient-Boosted Trees, Decision Tree, and Logistic regression to predict future banner click rate
+            - Cross-validation is used to winnow a best outcome
 
       - title: DevStudio
         link: "#"
