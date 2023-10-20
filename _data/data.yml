@@ -165,10 +165,10 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
     
-       # - title: A survey on computational metaphor processing techniques: from identification, interpretation, generation to application
-        # link: "#"
-        # authors: Mengshi Ge, Rui Mao, Erik Cambria
-        # conference: Artificial Intelligence Review, 1-67
+       - title: "A survey on computational metaphor processing techniques: from identification, interpretation, generation to application"
+        link: "#"
+        authors: Mengshi Ge, Rui Mao, Erik Cambria
+        conference: Artificial Intelligence Review, 1-67
 
       # - title: MetaPro Online: A computational metaphor processing online system
         # link: "#"
