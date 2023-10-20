@@ -192,32 +192,65 @@ publications:
         
 projects:
     title: Projects
-    intro: >
-    
-    assignments:
-      - title: Data Analysis to Click-through Rate Prediciton
-        link: "#hook"
+    info:
+      - role: Data Analysis to Click-through Rate Prediciton
         time: Dec. 2018 - Jan. 2019
-        tagline: 
+        company: 
+        details: |
             - Use Google Cloud and Spark to play >10MB dataset
             - Apply Multilayer Perceptron, Random forests, Gradient-Boosted Trees, Decision Tree, and Logistic regression to predict future banner click rate
             - Cross-validation is used to winnow a best outcome
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - role: Change Point Detection on Shanghai Stock Exchange
+        time: Nov. 2018 - Dec. 2018
+        company: 
+        details: |
+            - Apply direct computation, Univariate Bayesian Method, and Nonparametric Multiple Detection Method to detect change points
+            - Use package changepoint, bcp, ecp in R
+            - Data is from Shanghai stock 14.1-17.4 Monthly Closing Price
+          
+      - role: House Price Prediction
+        time: Nov. 2018 - Dec. 2018
+        company: 
+        details: |
+            - Elastic net is applied to penalized parameters for multiple variables
+            - Hyperparameter tuning with 10-fold cross-validation
+            - Use the neural network to get a better RMSE
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - role: ERP(event-related potential) data analysis
+        time: Oct. 2018 - Nov. 2018
+        company: 
+        details: |
+            - Data visualization, Variable analysis, correlation plot
+            - Set an ARIMA model and do the residual diagnosis for single electrode time series data
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - role: Wrongful Convictions Analysis
+        time: Apr. 2018 - May. 2018
+        company: 
+        details: |
+            - Use Logistic regression, Chi-square test, Contingency table analysis in R to measure the influence of factors on the wrongful conviction 
+            - Set a generalized linear model to agglomerate effects from factors
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - role: Air Pollution and Mortality
+        time: Mar. 2018 - Apr. 2018
+        company: 
+        details: |
+            - Use Mallow's Cp and backwards selection to select variables in SAS
+            - Ridge method is applied to eliminate the influence of small sample size
+            - Set a multivariable regression model to interpret the outcome
+
+      - role: New York City flights analysis
+        time: Mar. 2018 - Apr. 2018
+        company: 
+        details: |
+            - find the satisfied observations by PROC SQL in SAS
+
+
+      # - title: DevStudio
+        # link: "#"
+        # tagline: "A responsive website template designed to help web developers/designers market their services."
+
+
 
 # oss:
 #     title: OSS Contributions
