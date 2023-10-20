@@ -155,25 +155,35 @@ publications:
     intro: |
     papers:
     
-       - title: A survey on computational metaphor processing techniques: from identification, interpretation, generation to application
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
-        authors: Mengshi Ge, Rui Mao, Erik Cambria
-        conference: Artificial Intelligence Review, 1-67
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: MetaPro Online: A computational metaphor processing online system
+      - title: A syntax directed compiler for Algol 60
         link: "#"
-        authors: Rui Mao, Xiao Li, Kai He, Mengshi Ge, Erik Cambria
-        conference: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations), 127-135
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+    
+       # - title: A survey on computational metaphor processing techniques: from identification, interpretation, generation to application
+        # link: "#"
+        # authors: Mengshi Ge, Rui Mao, Erik Cambria
+        # conference: Artificial Intelligence Review, 1-67
 
-      - title: ECPEC: Emotion-Cause Pair Extraction in Conversations
-        link: "#"
-        authors: Wei Li, Yang Li, Vlad Pandelea, Mengshi Ge, Luyao Zhu, Erik Cambria
-        conference: IEEE Transactions on Affective Computing
+      # - title: MetaPro Online: A computational metaphor processing online system
+        # link: "#"
+        # authors: Rui Mao, Xiao Li, Kai He, Mengshi Ge, Erik Cambria
+        # conference: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations), 127-135
 
-      - title: MetaPro: A computational metaphor processing model for text pre-processing
-        link: "#"
-        authors: Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria
-        conference: Information Fusion, 30-43   
+      # - title: ECPEC: Emotion-Cause Pair Extraction in Conversations
+        # link: "#"
+        # authors: Wei Li, Yang Li, Vlad Pandelea, Mengshi Ge, Luyao Zhu, Erik Cambria
+        # conference: IEEE Transactions on Affective Computing
+
+      # - title: MetaPro: A computational metaphor processing model for text pre-processing
+        # link: "#"
+        # authors: Rui Mao, Xiao Li, Mengshi Ge, Erik Cambria
+        # conference: Information Fusion, 30-43   
 
       - title: Explainable metaphor identification inspired by conceptual metaphor theory
         link: "#"
