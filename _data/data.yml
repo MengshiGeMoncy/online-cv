@@ -55,7 +55,8 @@ sidebar:
 career-profile:
     title: Self introduction
     summary: |
-      Hello friend, this is Mengshi. I am currently a computer science PhD student under the supervision of Prof. Erik Cambria at Nanyang Technological University. My major is natural language processing. If you know any positions related my experience, feel free to reach out!
+    
+      # Hello friend, this is Mengshi. I am currently a computer science PhD student under the supervision of Prof. Erik Cambria at Nanyang Technological University. My major is natural language processing. If you know any positions related my experience, feel free to reach out!
 education:
     title: Education
     info:
@@ -95,7 +96,7 @@ experiences:
             - Help the editorial work of a journal
       - role: Economic Modeling and Mathematics Intern
         time: Jan. - Apr. 2019
-        company: Center for the Advancement of the Steady State Economy, DC, America
+        company: Center for the Advancement of the Steady State Economy, DC, USA
         details: |
             - Assist with projects on economic policy and modeling
             - Design brief statements of analysis between GDP and other related variables
